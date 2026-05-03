@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Grzegorz 👋
 
-<!--
-**Finito21/Finito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Engineer | Cybersecurity | AI
+🚀 Focused on Quality Assurance, Security Testing & AI
+📍 Poland
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+I am actively growing in the field of software quality assurance and security testing, with a strong interest in AI and its impact on these domains. I have hands-on experience with tools supporting application testing and application security. I focus on identifying limitations, defects, and vulnerabilities and continuously improve my skills in detecting and eliminating software issues, as well as assessing system resilience against modern security threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Tech Stack
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium)
+![Cypress](https://img.shields.io/badge/-Cypress-black?logo=cypress)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Finito21)
+
+
+📫 Contact
+LinkedIn: https://linkedin.com/in/grzegorz-zieba
+
+⭐ Always learning, improving, and exploring new technologies in QA, Security, and AI.

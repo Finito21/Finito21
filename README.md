@@ -21,12 +21,6 @@ I am actively growing in the field of software quality assurance and security te
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Finito21&show_icons=true&theme=dark)
-
-
 # 📫 Contact
 
 LinkedIn: https://linkedin.com/in/grzegorz-zieba

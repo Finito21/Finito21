@@ -1,7 +1,9 @@
 # Hi, I'm Grzegorz 👋
 
 💻 QA Engineer | Cybersecurity | AI
+
 🚀 Focused on Quality Assurance, Security Testing & AI
+
 📍 Poland
 
 
@@ -12,20 +14,17 @@ I am actively growing in the field of software quality assurance and security te
 
 # 🧪 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-
-![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium)
-
-![Cypress](https://img.shields.io/badge/-Cypress-black?logo=cypress)
-
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)
 
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Finito21)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Finito21&show_icons=true&theme=dark)
 
 
 # 📫 Contact

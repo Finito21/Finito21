@@ -23,7 +23,7 @@ I am actively growing in the field of software quality assurance and security te
 
 # 📫 Contact
 
-LinkedIn: https://linkedin.com/in/grzegorz-zieba
+LinkedIn: https://linkedin.com/in/grzegorz-zięba
 
 
 ⭐ Always learning, improving, and exploring new technologies in QA, Security, and AI.
